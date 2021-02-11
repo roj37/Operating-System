@@ -1,0 +1,4 @@
+Operating system Function
+Memory Management- refers to the OS managing primary and main memory. Main memory is a large array of words or 
+bytes where each word or byte has its own address. Main memory provides a fast storage that can be directly accessed
+by the CPU. For a program to be executed it must be in Main memory.
