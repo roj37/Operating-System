@@ -6,3 +6,8 @@ by the CPU. For a program to be executed it must be in Main memory.
 Another OS Function
 Processor Management- In a multiprogramming environment the OS decides which process gets the processor when and for how much time. This function is called process scheduling. It also allocates The CPU to a specific process. De-allocates the CPU
 when it is no longer needed. Keeps track of the processor and its status. 
+
+Adding another OS Function 
+Error Detection- An OS has many different processes and applications it uses to monitor system performance. 
+One of these is the many ways it detects errors in the system. One of the most common things an OS will catch is an error
+when attempting to write to something or anytime the processor is struggling with a specific process. 
